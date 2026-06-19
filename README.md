@@ -27,4 +27,6 @@ Bu repozitoriyada Python proqramlaşdırma dilinə ilk addım atarkən öyrəndi
 ###  4. Formatlama və Dövr Köməkçiləri
 * `f-string` və `.format()` ilə dinamik cümlələr qurmağı vərdiş halına gətirdim.
 
-*Mənim inkişaf yolumua nəzər yetirdiyiniz üçün təşəkkür edirəm! * 😊
+---
+
+*Mənim inkişaf yolumua nəzər yetirdiyiniz üçün təşəkkür edirəm!* 😊
